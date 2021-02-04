@@ -22,19 +22,19 @@
     "url": "https://ccdburundi.org.uk",
     "icon": "https://favicons.githubusercontent.com/ccdburundi.org.uk",
     "slug": "ccd-burundi",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1065,
-    "timeDay": 1176,
-    "timeWeek": 1088,
-    "timeMonth": 1065,
-    "timeYear": 1065,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1142,
+    "timeDay": 1699,
+    "timeWeek": 1272,
+    "timeMonth": 1142,
+    "timeYear": 1142,
     "dailyMinutesDown": {
-      "2021-02-04": 9
+      "2021-02-04": 21
     }
   },
   {
