@@ -48,7 +48,7 @@
     "url": "https://playwoodforestschool.co.uk",
     "icon": "https://favicons.githubusercontent.com/playwoodforestschool.co.uk",
     "slug": "play-wood-forest-school",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
@@ -106,7 +106,7 @@
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2021-03-21": 6,
+      "2021-03-21": 1373,
       "2021-03-20": 1440,
       "2021-03-19": 1440,
       "2021-03-18": 1440,
