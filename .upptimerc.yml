@@ -12,8 +12,8 @@ sites:
     url: https://playwoodforestschool.co.uk
   - name: Tim & Kathy
     url: https://www.timandkathy.co.uk
-  - name: TAKK 404 test
-    url: https://www.takkconsulting.co.uk/foo
+  - name: Bath City Pastors (website)
+    url: https://bathcitypastors.org.uk/
 #  - name: Test for HEAD
 #    method: HEAD
 #    url: https://www.google.com
