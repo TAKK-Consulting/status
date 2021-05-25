@@ -1,7 +1,7 @@
 url: https://ccdburundi.org.uk
-status: up
-code: 200
-responseTime: 2251
-lastUpdated: 2021-05-24T23:00:50.277Z
+status: down
+code: 500
+responseTime: 809
+lastUpdated: 2021-05-25T01:55:16.340Z
 startTime: Tue Jan 19 2021 20:06:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
