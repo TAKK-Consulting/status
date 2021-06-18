@@ -14,6 +14,8 @@ sites:
     url: https://www.timandkathy.co.uk
   - name: Bath City Pastors (website)
     url: https://bathcitypastors.org.uk/
+  - name: Bath City Pastors (rota app)
+    url: https://rota.bathcitypastors.org.uk/
 #  - name: Test for HEAD
 #    method: HEAD
 #    url: https://www.google.com
