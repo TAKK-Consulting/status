@@ -1,7 +1,7 @@
 url: https://bathcitypastors.org.uk/
-status: up
-code: 200
-responseTime: 1389
-lastUpdated: 2021-09-13T23:01:01.898Z
+status: down
+code: 500
+responseTime: 858
+lastUpdated: 2021-09-14T03:22:59.685Z
 startTime: Wed May 05 2021 11:14:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
