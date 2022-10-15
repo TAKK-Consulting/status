@@ -6,15 +6,15 @@
     "slug": "takk-consulting",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "92.19%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.33%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.08%",
-    "time": 1773,
-    "timeDay": 4856,
-    "timeWeek": 3638,
-    "timeMonth": 3841,
-    "timeYear": 2096,
+    "time": 1776,
+    "timeDay": 2230,
+    "timeWeek": 3365,
+    "timeMonth": 3801,
+    "timeYear": 2099,
     "dailyMinutesDown": {
       "2022-10-13": 168,
       "2022-07-25": 23,
@@ -64,8 +64,7 @@
       "2021-11-18": 28,
       "2021-11-17": 23,
       "2021-11-12": 24,
-      "2021-11-06": 35,
-      "2021-10-15": 20
+      "2021-11-06": 35
     }
   },
   {
@@ -80,10 +79,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
     "time": 1380,
-    "timeDay": 868,
-    "timeWeek": 1411,
-    "timeMonth": 1246,
-    "timeYear": 1496,
+    "timeDay": 915,
+    "timeWeek": 1005,
+    "timeMonth": 1257,
+    "timeYear": 1495,
     "dailyMinutesDown": {
       "2022-06-29": 16,
       "2022-05-24": 141,
@@ -133,8 +132,7 @@
       "2021-11-06": 35,
       "2021-11-05": 40,
       "2021-10-22": 70,
-      "2021-10-16": 51,
-      "2021-10-15": 19
+      "2021-10-16": 51
     }
   },
   {
@@ -149,10 +147,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
     "time": 1446,
-    "timeDay": 1296,
-    "timeWeek": 1479,
-    "timeMonth": 1630,
-    "timeYear": 1552,
+    "timeDay": 935,
+    "timeWeek": 1176,
+    "timeMonth": 1637,
+    "timeYear": 1551,
     "dailyMinutesDown": {
       "2022-07-02": 91,
       "2022-06-14": 48,
@@ -205,8 +203,7 @@
       "2021-11-18": 27,
       "2021-11-05": 40,
       "2021-10-22": 70,
-      "2021-10-16": 51,
-      "2021-10-15": 19
+      "2021-10-16": 51
     }
   },
   {
@@ -221,10 +218,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.10%",
     "time": 1065,
-    "timeDay": 679,
-    "timeWeek": 645,
-    "timeMonth": 793,
-    "timeYear": 1097,
+    "timeDay": 934,
+    "timeWeek": 688,
+    "timeMonth": 803,
+    "timeYear": 1096,
     "dailyMinutesDown": {
       "2022-07-02": 91,
       "2022-05-25": 237,
@@ -264,8 +261,7 @@
       "2022-02-06": 20,
       "2022-01-25": 533,
       "2022-01-24": 1113,
-      "2021-11-18": 26,
-      "2021-10-15": 18
+      "2021-11-18": 26
     }
   },
   {
@@ -274,15 +270,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bathcitypastors.org.uk.ico",
     "slug": "bath-city-pastors-website",
     "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "92.19%",
+    "uptime": "99.12%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.33%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "98.85%",
-    "time": 1488,
-    "timeDay": 673,
-    "timeWeek": 1802,
-    "timeMonth": 2084,
+    "time": 1489,
+    "timeDay": 1019,
+    "timeWeek": 1450,
+    "timeMonth": 2100,
     "timeYear": 1637,
     "dailyMinutesDown": {
       "2022-10-13": 168,
@@ -327,8 +323,7 @@
       "2022-01-24": 995,
       "2021-11-05": 40,
       "2021-10-22": 70,
-      "2021-10-16": 51,
-      "2021-10-15": 18
+      "2021-10-16": 51
     }
   },
   {
@@ -343,10 +338,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 807,
-    "timeDay": 896,
-    "timeWeek": 727,
-    "timeMonth": 774,
-    "timeYear": 814,
+    "timeDay": 869,
+    "timeWeek": 748,
+    "timeMonth": 780,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2022-07-27": 19
     }
