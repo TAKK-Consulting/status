@@ -11,10 +11,10 @@
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.08%",
     "time": 1776,
-    "timeDay": 2230,
-    "timeWeek": 3365,
-    "timeMonth": 3801,
-    "timeYear": 2099,
+    "timeDay": 1126,
+    "timeWeek": 3259,
+    "timeMonth": 3464,
+    "timeYear": 2103,
     "dailyMinutesDown": {
       "2022-10-13": 168,
       "2022-07-25": 23,
@@ -78,10 +78,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
-    "time": 1380,
-    "timeDay": 915,
-    "timeWeek": 1005,
-    "timeMonth": 1257,
+    "time": 1378,
+    "timeDay": 500,
+    "timeWeek": 965,
+    "timeMonth": 1188,
     "timeYear": 1495,
     "dailyMinutesDown": {
       "2022-06-29": 16,
@@ -131,8 +131,7 @@
       "2021-11-18": 27,
       "2021-11-06": 35,
       "2021-11-05": 40,
-      "2021-10-22": 70,
-      "2021-10-16": 51
+      "2021-10-22": 70
     }
   },
   {
@@ -141,15 +140,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/playwoodforestschool.co.uk.ico",
     "slug": "play-wood-forest-school",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.79%",
-    "time": 1446,
-    "timeDay": 935,
-    "timeWeek": 1176,
-    "timeMonth": 1637,
+    "time": 1445,
+    "timeDay": 546,
+    "timeWeek": 1142,
+    "timeMonth": 1628,
     "timeYear": 1551,
     "dailyMinutesDown": {
       "2022-07-02": 91,
@@ -202,8 +201,7 @@
       "2022-01-24": 1090,
       "2021-11-18": 27,
       "2021-11-05": 40,
-      "2021-10-22": 70,
-      "2021-10-16": 51
+      "2021-10-22": 70
     }
   },
   {
@@ -218,9 +216,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.10%",
     "time": 1065,
-    "timeDay": 934,
-    "timeWeek": 688,
-    "timeMonth": 803,
+    "timeDay": 576,
+    "timeWeek": 631,
+    "timeMonth": 804,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2022-07-02": 91,
@@ -275,11 +273,11 @@
     "uptimeWeek": "98.33%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "98.85%",
-    "time": 1489,
-    "timeDay": 1019,
-    "timeWeek": 1450,
-    "timeMonth": 2100,
-    "timeYear": 1637,
+    "time": 1488,
+    "timeDay": 540,
+    "timeWeek": 1444,
+    "timeMonth": 1928,
+    "timeYear": 1636,
     "dailyMinutesDown": {
       "2022-10-13": 168,
       "2022-05-24": 140,
@@ -322,8 +320,7 @@
       "2022-01-25": 475,
       "2022-01-24": 995,
       "2021-11-05": 40,
-      "2021-10-22": 70,
-      "2021-10-16": 51
+      "2021-10-22": 70
     }
   },
   {
@@ -338,9 +335,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 807,
-    "timeDay": 869,
-    "timeWeek": 748,
-    "timeMonth": 780,
+    "timeDay": 589,
+    "timeWeek": 730,
+    "timeMonth": 781,
     "timeYear": 813,
     "dailyMinutesDown": {
       "2022-07-27": 19
