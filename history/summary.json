@@ -6,15 +6,15 @@
     "slug": "takk-consulting",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "97.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.09%",
-    "time": 1893,
-    "timeDay": 6089,
-    "timeWeek": 3710,
-    "timeMonth": 2990,
-    "timeYear": 2260,
+    "time": 1895,
+    "timeDay": 1714,
+    "timeWeek": 3654,
+    "timeMonth": 2939,
+    "timeYear": 2264,
     "dailyMinutesDown": {
       "2022-11-16": 34,
       "2022-10-13": 168,
@@ -61,8 +61,7 @@
       "2022-02-06": 21,
       "2022-02-03": 29,
       "2022-01-25": 506,
-      "2022-01-24": 922,
-      "2021-11-18": 28
+      "2022-01-24": 922
     }
   },
   {
@@ -72,15 +71,15 @@
     "slug": "ccd-burundi",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "97.71%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.90%",
     "time": 1390,
-    "timeDay": 4035,
-    "timeWeek": 1864,
-    "timeMonth": 1218,
-    "timeYear": 1503,
+    "timeDay": 804,
+    "timeWeek": 1895,
+    "timeMonth": 1222,
+    "timeYear": 1501,
     "dailyMinutesDown": {
       "2022-11-16": 33,
       "2022-06-29": 16,
@@ -126,8 +125,7 @@
       "2022-02-06": 21,
       "2022-02-03": 29,
       "2022-01-25": 351,
-      "2022-01-24": 847,
-      "2021-11-18": 27
+      "2022-01-24": 847
     }
   },
   {
@@ -137,15 +135,15 @@
     "slug": "play-wood-forest-school",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "97.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.82%",
     "time": 1458,
-    "timeDay": 4644,
-    "timeWeek": 1834,
-    "timeMonth": 1310,
-    "timeYear": 1561,
+    "timeDay": 754,
+    "timeWeek": 1856,
+    "timeMonth": 1318,
+    "timeYear": 1560,
     "dailyMinutesDown": {
       "2022-11-16": 32,
       "2022-07-02": 91,
@@ -195,8 +193,7 @@
       "2022-02-12": 78,
       "2022-02-06": 21,
       "2022-01-25": 437,
-      "2022-01-24": 1090,
-      "2021-11-18": 27
+      "2022-01-24": 1090
     }
   },
   {
@@ -211,10 +208,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.10%",
     "time": 1049,
-    "timeDay": 884,
-    "timeWeek": 703,
-    "timeMonth": 693,
-    "timeYear": 1072,
+    "timeDay": 836,
+    "timeWeek": 756,
+    "timeMonth": 692,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2022-07-02": 91,
       "2022-05-25": 237,
@@ -253,8 +250,7 @@
       "2022-02-13": 20,
       "2022-02-06": 20,
       "2022-01-25": 533,
-      "2022-01-24": 1113,
-      "2021-11-18": 26
+      "2022-01-24": 1113
     }
   },
   {
@@ -263,16 +259,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bathcitypastors.org.uk.ico",
     "slug": "bath-city-pastors-website",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "98.85%",
-    "time": 1540,
-    "timeDay": 7651,
-    "timeWeek": 2157,
-    "timeMonth": 1980,
-    "timeYear": 1693,
+    "time": 1539,
+    "timeDay": 529,
+    "timeWeek": 2147,
+    "timeMonth": 2012,
+    "timeYear": 1691,
     "dailyMinutesDown": {
       "2022-10-24": 191,
       "2022-10-13": 168,
@@ -329,10 +325,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 804,
-    "timeDay": 1004,
-    "timeWeek": 708,
-    "timeMonth": 725,
-    "timeYear": 805,
+    "timeDay": 717,
+    "timeWeek": 736,
+    "timeMonth": 728,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2022-07-27": 19
     }
@@ -348,11 +344,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 889,
-    "timeDay": 1338,
-    "timeWeek": 799,
-    "timeMonth": 889,
-    "timeYear": 889,
+    "time": 885,
+    "timeDay": 738,
+    "timeWeek": 813,
+    "timeMonth": 875,
+    "timeYear": 885,
     "dailyMinutesDown": {}
   }
 ]
