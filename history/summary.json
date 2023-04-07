@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.51%",
-    "time": 2533,
-    "timeDay": 3311,
-    "timeWeek": 3159,
-    "timeMonth": 3028,
-    "timeYear": 2677,
+    "uptimeYear": "99.52%",
+    "time": 2523,
+    "timeDay": 4195,
+    "timeWeek": 3063,
+    "timeMonth": 3095,
+    "timeYear": 2688,
     "dailyMinutesDown": {
       "2023-01-25": 21,
       "2023-01-03": 43,
@@ -40,8 +40,7 @@
       "2022-04-19": 16,
       "2022-04-16": 26,
       "2022-04-15": 72,
-      "2022-04-08": 738,
-      "2022-04-07": 43
+      "2022-04-08": 738
     }
   },
   {
@@ -54,12 +53,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 1246,
-    "timeDay": 965,
-    "timeWeek": 889,
-    "timeMonth": 1008,
-    "timeYear": 1051,
+    "uptimeYear": "99.58%",
+    "time": 1245,
+    "timeDay": 787,
+    "timeWeek": 837,
+    "timeMonth": 984,
+    "timeYear": 1052,
     "dailyMinutesDown": {
       "2023-01-25": 77,
       "2023-01-03": 18,
@@ -82,8 +81,7 @@
       "2022-04-19": 15,
       "2022-04-16": 25,
       "2022-04-15": 71,
-      "2022-04-08": 737,
-      "2022-04-07": 42
+      "2022-04-08": 737
     }
   },
   {
@@ -96,12 +94,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
-    "time": 1319,
-    "timeDay": 1397,
-    "timeWeek": 1275,
-    "timeMonth": 1295,
-    "timeYear": 1280,
+    "uptimeYear": "99.68%",
+    "time": 1318,
+    "timeDay": 1117,
+    "timeWeek": 919,
+    "timeMonth": 1258,
+    "timeYear": 1282,
     "dailyMinutesDown": {
       "2023-01-25": 20,
       "2023-01-03": 40,
@@ -127,8 +125,7 @@
       "2022-04-20": 21,
       "2022-04-16": 25,
       "2022-04-15": 71,
-      "2022-04-08": 736,
-      "2022-04-07": 42
+      "2022-04-08": 736
     }
   },
   {
@@ -141,12 +138,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
-    "time": 986,
-    "timeDay": 649,
-    "timeWeek": 778,
-    "timeMonth": 746,
-    "timeYear": 753,
+    "uptimeYear": "99.70%",
+    "time": 985,
+    "timeDay": 802,
+    "timeWeek": 743,
+    "timeMonth": 752,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2023-01-25": 19,
       "2023-01-03": 39,
@@ -163,8 +160,7 @@
       "2022-04-20": 20,
       "2022-04-16": 24,
       "2022-04-15": 70,
-      "2022-04-08": 735,
-      "2022-04-07": 41
+      "2022-04-08": 735
     }
   },
   {
@@ -173,18 +169,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bathcitypastors.org.uk.ico",
     "slug": "bath-city-pastors-website",
     "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.53%",
-    "time": 1633,
-    "timeDay": 914,
-    "timeWeek": 1308,
-    "timeMonth": 973,
-    "timeYear": 1376,
+    "uptime": "99.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.54%",
+    "time": 1615,
+    "timeDay": 921,
+    "timeWeek": 784,
+    "timeMonth": 908,
+    "timeYear": 1377,
     "dailyMinutesDown": {
-      "2023-04-06": 9,
       "2023-01-25": 19,
       "2023-01-03": 38,
       "2023-01-02": 18,
@@ -201,8 +196,7 @@
       "2022-04-20": 20,
       "2022-04-16": 24,
       "2022-04-15": 70,
-      "2022-04-08": 735,
-      "2022-04-07": 41
+      "2022-04-08": 735
     }
   },
   {
@@ -216,11 +210,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 783,
-    "timeDay": 917,
-    "timeWeek": 739,
-    "timeMonth": 717,
-    "timeYear": 775,
+    "time": 782,
+    "timeDay": 821,
+    "timeWeek": 732,
+    "timeMonth": 716,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2023-01-25": 18,
       "2023-01-21": 52,
@@ -238,11 +232,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
-    "time": 858,
-    "timeDay": 1526,
-    "timeWeek": 1224,
-    "timeMonth": 950,
-    "timeYear": 858,
+    "time": 861,
+    "timeDay": 1295,
+    "timeWeek": 1184,
+    "timeMonth": 961,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2023-03-23": 31,
       "2023-02-05": 20,
