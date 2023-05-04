@@ -213,19 +213,19 @@
     "url": "https://www.luxyouthproject.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.luxyouthproject.co.uk.ico",
     "slug": "lux-youth-project",
-    "status": "down",
-    "uptime": "1.49%",
-    "uptimeDay": "1.49%",
-    "uptimeWeek": "1.49%",
-    "uptimeMonth": "1.49%",
-    "uptimeYear": "1.49%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
+    "time": 463,
+    "timeDay": 463,
+    "timeWeek": 463,
+    "timeMonth": 463,
+    "timeYear": 463,
     "dailyMinutesDown": {
-      "2023-05-04": 1
+      "2023-05-04": 201
     }
   }
 ]
