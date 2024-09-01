@@ -110,9 +110,9 @@
     "url": "https://rota.bathcitypastors.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/rota.bathcitypastors.org.uk.ico",
     "slug": "bath-city-pastors-rota-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -122,6 +122,7 @@
     "timeMonth": 1065,
     "timeYear": 819,
     "dailyMinutesDown": {
+      "2024-09-01": 0,
       "2024-04-12": 16,
       "2024-04-03": 18
     }
