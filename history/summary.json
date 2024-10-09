@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.takkconsulting.co.uk.ico",
     "slug": "takk-consulting",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2210,
-    "timeDay": 2027,
-    "timeWeek": 2871,
-    "timeMonth": 2879,
-    "timeYear": 2124,
+    "time": 2205,
+    "timeDay": 1319,
+    "timeWeek": 2629,
+    "timeMonth": 2824,
+    "timeYear": 2121,
     "dailyMinutesDown": {
       "2024-04-04": 21,
       "2023-11-23": 50
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 971,
-    "timeDay": 1502,
-    "timeWeek": 1228,
-    "timeMonth": 1251,
-    "timeYear": 906,
+    "time": 972,
+    "timeDay": 1210,
+    "timeWeek": 1307,
+    "timeMonth": 1269,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2023-11-23": 49
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1053,
-    "timeDay": 1484,
-    "timeWeek": 2217,
-    "timeMonth": 1840,
-    "timeYear": 981,
+    "time": 1052,
+    "timeDay": 622,
+    "timeWeek": 1553,
+    "timeMonth": 1837,
+    "timeYear": 980,
     "dailyMinutesDown": {
       "2023-11-23": 49
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 1049,
-    "timeDay": 1368,
-    "timeWeek": 2021,
-    "timeMonth": 1685,
-    "timeYear": 1141,
+    "time": 1052,
+    "timeDay": 2046,
+    "timeWeek": 2020,
+    "timeMonth": 1707,
+    "timeYear": 1145,
     "dailyMinutesDown": {
       "2023-11-23": 48,
       "2023-11-08": 1279
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 979,
-    "timeDay": 1283,
-    "timeWeek": 1162,
-    "timeMonth": 1246,
-    "timeYear": 891,
+    "time": 978,
+    "timeDay": 421,
+    "timeWeek": 1007,
+    "timeMonth": 1243,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2023-11-23": 48
     }
@@ -113,10 +113,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 837,
-    "timeDay": 1242,
-    "timeWeek": 1055,
-    "timeMonth": 1193,
-    "timeYear": 864,
+    "timeDay": 507,
+    "timeWeek": 962,
+    "timeMonth": 1167,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2024-10-02": 19,
       "2024-09-01": 54,
@@ -136,10 +136,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1172,
-    "timeDay": 951,
-    "timeWeek": 1230,
-    "timeMonth": 1252,
-    "timeYear": 1084,
+    "timeDay": 1133,
+    "timeWeek": 1259,
+    "timeMonth": 1217,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2024-03-16": 32,
       "2024-03-03": 21
@@ -157,10 +157,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 814,
-    "timeDay": 713,
-    "timeWeek": 728,
-    "timeMonth": 725,
-    "timeYear": 656,
+    "timeDay": 493,
+    "timeWeek": 673,
+    "timeMonth": 723,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2023-11-23": 48
     }
