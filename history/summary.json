@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2226,
-    "timeDay": 3693,
-    "timeWeek": 4049,
-    "timeMonth": 3360,
-    "timeYear": 2260,
+    "time": 2231,
+    "timeDay": 4617,
+    "timeWeek": 4280,
+    "timeMonth": 3435,
+    "timeYear": 2269,
     "dailyMinutesDown": {
-      "2024-04-04": 21,
-      "2023-11-23": 50
+      "2024-04-04": 21
     }
   },
   {
@@ -31,14 +30,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 912,
-    "timeDay": 1724,
-    "timeWeek": 1236,
-    "timeMonth": 1162,
-    "timeYear": 963,
-    "dailyMinutesDown": {
-      "2023-11-23": 49
-    }
+    "time": 913,
+    "timeDay": 945,
+    "timeWeek": 1175,
+    "timeMonth": 1163,
+    "timeYear": 964,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PlayWood Forest School",
@@ -52,13 +49,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1016,
-    "timeDay": 1014,
-    "timeWeek": 1194,
-    "timeMonth": 1491,
-    "timeYear": 1058,
-    "dailyMinutesDown": {
-      "2023-11-23": 49
-    }
+    "timeDay": 788,
+    "timeWeek": 1070,
+    "timeMonth": 1486,
+    "timeYear": 1059,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tim & Kathy",
@@ -71,14 +66,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1137,
-    "timeDay": 1411,
-    "timeWeek": 1810,
-    "timeMonth": 1914,
-    "timeYear": 1292,
-    "dailyMinutesDown": {
-      "2023-11-23": 48
-    }
+    "time": 1142,
+    "timeDay": 3129,
+    "timeWeek": 2091,
+    "timeMonth": 1973,
+    "timeYear": 1298,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bath City Pastors (website)",
@@ -92,13 +85,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 953,
-    "timeDay": 2490,
-    "timeWeek": 1170,
-    "timeMonth": 1665,
-    "timeYear": 1011,
-    "dailyMinutesDown": {
-      "2023-11-23": 48
-    }
+    "timeDay": 782,
+    "timeWeek": 1100,
+    "timeMonth": 1646,
+    "timeYear": 1012,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bath City Pastors (rota app)",
@@ -111,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 863,
-    "timeDay": 485,
-    "timeWeek": 775,
-    "timeMonth": 1036,
-    "timeYear": 912,
+    "time": 865,
+    "timeDay": 1505,
+    "timeWeek": 798,
+    "timeMonth": 1057,
+    "timeYear": 914,
     "dailyMinutesDown": {
       "2024-10-02": 19,
       "2024-09-01": 54,
@@ -134,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 1126,
-    "timeDay": 636,
-    "timeWeek": 692,
-    "timeMonth": 772,
-    "timeYear": 1048,
+    "time": 1125,
+    "timeDay": 1036,
+    "timeWeek": 743,
+    "timeMonth": 767,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2024-11-10": 20,
       "2024-03-16": 32,
@@ -157,12 +148,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 710,
-    "timeDay": 768,
-    "timeWeek": 760,
+    "timeDay": 933,
+    "timeWeek": 754,
     "timeMonth": 739,
-    "timeYear": 657,
-    "dailyMinutesDown": {
-      "2023-11-23": 48
-    }
+    "timeYear": 658,
+    "dailyMinutesDown": {}
   }
 ]
