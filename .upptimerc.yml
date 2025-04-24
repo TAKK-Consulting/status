@@ -2,6 +2,9 @@
 owner: TAKK-Consulting # Your GitHub username
 repo: status # Your GitHub repository name
 
+i18n:
+  locale: en-GB
+
 # Add your sites here
 sites:
   - name: TAKK Consulting
