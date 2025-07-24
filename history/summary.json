@@ -151,9 +151,9 @@
     "slug": "bath-nes-greens-humhub",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 970,
     "timeDay": 526,
@@ -161,7 +161,6 @@
     "timeMonth": 760,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2025-07-24": 3,
       "2024-11-10": 20
     }
   },
