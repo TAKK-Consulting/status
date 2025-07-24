@@ -20,7 +20,7 @@ sites:
   - name: Bath City Pastors (rota app)
     url: https://rota.bathcitypastors.org.uk/
   - name: BathNES Greens Humhub
-    url: https://members.bathnesgreens.org.uk//
+    url: https://members.bathnesgreens.org.uk/
   - name: Lux Youth Project
     url: https://www.luxyouthproject.co.uk/
 #  - name: Test for HEAD
