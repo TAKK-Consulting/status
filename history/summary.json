@@ -178,7 +178,7 @@
     "uptimeYear": "99.99%",
     "time": 979,
     "timeDay": 597,
-    "timeWeek": 731,
+    "timeWeek": 744,
     "timeMonth": 705,
     "timeYear": 932,
     "dailyMinutesDown": {
@@ -192,18 +192,19 @@
     "url": "https://members.bathnesgreens.org.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/members.bathnesgreens.org.uk.ico",
     "slug": "bath-nes-greens-humhub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "90.97%",
+    "uptimeDay": "96.93%",
     "uptimeWeek": "98.71%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
     "time": 915,
-    "timeDay": 680,
+    "timeDay": 583,
     "timeWeek": 834,
     "timeMonth": 842,
     "timeYear": 809,
     "dailyMinutesDown": {
+      "2025-10-21": 0,
       "2025-10-20": 130,
       "2024-11-10": 20
     }
