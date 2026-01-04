@@ -7,8 +7,6 @@ i18n:
 
 # Add your sites here
 sites:
-  - name: CCD Burundi
-    url: https://ccdburundi.org.uk
   - name: PlayWood Forest School
     url: https://playwoodforestschool.co.uk
   - name: Tim & Kathy
