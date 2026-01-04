@@ -9,8 +9,6 @@ i18n:
 sites:
   - name: Bath City Pastors (rota app)
     url: https://rota.bathcitypastors.org.uk/
-  - name: Lux Youth Project
-    url: https://www.luxyouthproject.co.uk/
 #  - name: Test for HEAD
 #    method: HEAD
 #    url: https://www.google.com
