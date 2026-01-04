@@ -7,8 +7,6 @@ i18n:
 
 # Add your sites here
 sites:
-  - name: TAKK Consulting
-    url: https://www.takkconsulting.co.uk
   - name: CCD Burundi
     url: https://ccdburundi.org.uk
   - name: PlayWood Forest School
