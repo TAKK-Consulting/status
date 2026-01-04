@@ -7,8 +7,6 @@ i18n:
 
 # Add your sites here
 sites:
-  - name: Tim & Kathy
-    url: https://www.timandkathy.co.uk
   - name: Bath City Pastors (rota app)
     url: https://rota.bathcitypastors.org.uk/
   - name: Lux Youth Project
